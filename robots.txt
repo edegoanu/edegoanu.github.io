@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edegoanu.github.io/AHR/sitemap_index.txt
+Sitemap: https://edegoanu.github.io/aDs/sitemap_index.txt
+Sitemap: https://edegoanu.github.io/baw/sitemap_index.txt
+Sitemap: https://edegoanu.github.io/tEc/sitemap_index.txt
